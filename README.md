@@ -30,7 +30,5 @@ This website presents a clean and simple layout for a home-made food service, in
 - Easy-to-read code structure  
 - Beginner-friendly project  
 
----
 
-## 📂 Project Structure
 
